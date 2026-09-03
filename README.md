@@ -1,8 +1,6 @@
-# 🩺 Diabetes Prediction 
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/103222259/255432423-8157a6d0-8d82-43b4-894f-53cd2125c891.png" width="800" height="400"/>
-</p>
+
+
 
 ## 📌 Overview
 This project solves the problem of early detection of diabetes. It takes patient diagnostic data and predicts whether the patient is diabetic, helping with faster and informed healthcare decisions.
@@ -61,5 +59,5 @@ streamlit run app.py
 ```
 ---
 
-* This project was developed as part of a hands-on training program with **Genius Technology Center (GTC)**.
+
 It provided practical experience in building an end-to-end ML solution, from dataset exploration to deploying a working app.
